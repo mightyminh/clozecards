@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "flashcard generator/cloze card",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/mightyminh/clozecards.git"
+  },
+  "keywords": [
+    "node.js",
+    "node"
+  ],
+  "author": "Minhtuyen Mai (Mighty Minh)",
+  "license": "UCSD-Extension",
+  "bugs": {
+    "url": "tough luck"
+  },
+  "homepage": "https://github.com/mightyminh/clozecards.git",
+  "dependencies": {
+    "ds-store": "^0.1.6",
+    "inquirer": "^2.0.0"
+  }
+}

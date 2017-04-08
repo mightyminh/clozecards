@@ -1,0 +1,7 @@
+-[{"text":"(Pokémon) is the best thing ever!","cloze":"Pokémon","message":"________ is the best thing ever!"},
+
+{"text":"In the TV show (Fresh Prince of BelAir), starred Will Smith, who played a teenager from Philly who moved to his Uncle's house in upscale Bel Air, CA.","cloze":"Fresh Prince of Bel Air","message":"In the TV show _____________, starred Will Smith, who played a teenager from Philly who moved to his Uncle's house in upscale Bel Air, CA.",
+
+{"text":" (Pikachu) is Ash's first Pokémon","cloze":"Pikachu","message":"________ is Ash's first Pokémon."}]
+
+ +[{"text":"(Pokémon) is the best thing ever!","cloze":"Pokémon"},{"text":"In the movie (Deadpool), Wade Wilson hunted down the man who gave him a scarred physical appearance.","cloze":"Deadpool"},{"text":"(Luigi) is Mario's brother in Super Mario Bros.","cloze":"Luigi"}]

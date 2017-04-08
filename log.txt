@@ -1,0 +1,1 @@
+[{"front":"What kind of Pokémon is an electric mouse?","back":"Pikachu"},{"front":"In the first generation of Pokémon, what is the fire Pokémon you can choose to start with?","back":"Charmander?"},{"front":"What is Dragon type Pokémon weak against?","back":"Fairy"}]
